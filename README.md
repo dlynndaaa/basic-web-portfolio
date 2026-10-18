@@ -37,3 +37,9 @@ To view this project locally on your machine:
    ```bash
    git clone https://github.com/dlynndaaa/basic-web-portfolio.git
 2. Open the index.html file directly in any modern web browser.
+
+## 👤 Author
+**Delinda Mega Putri**
+- 🎓 Informatics Engineering, Universitas Muhammadiyah Sukabumi
+- 💼 [LinkedIn](https://www.linkedin.com/in/dlnmgp)
+- 📧 Email: delindamegaputri123@gmail.com
